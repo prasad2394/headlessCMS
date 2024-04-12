@@ -5,6 +5,7 @@ const HomePage = () => {
     <div>
       {/* <h1>Welcome to My Website</h1> */}
       <HomeBanner />
+      
       {/* Add the rest of your page content here */}
     </div>
   );
